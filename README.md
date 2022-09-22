@@ -7,7 +7,7 @@
 
 # :nerd_face: About nerd me (research and code):
 
-- :zany_face: I'm a doctoral researcher in theoretical particle physics at Universidade Federal do ABC, Brazil.
+- :zany_face: I have a Ph.D. from Universidade Federal do ABC, Brazil. I am a researcher in theoretical particle physics.
 - :computer: I develop and test regularization algorithms with Mathematica for the study of theoretical models in particle physics.
 <!-- - :scroll: I have collaborated in: ["Two-loop renormalisation of gauge theories in 4D Implicit Regularisation: transition rules to dimensional methods"](https://link.springer.com/article/10.1140/epjc/s10052-021-09259-6), ["A Brief Review of Implicit Regularization and Its Connection with the BPHZ Theorem"](https://www.mdpi.com/2073-8994/13/6/956), and ["Two-loop renormalisation of non-Abelian gauge theories in 4D Implicit Regularisation"](https://pos.sissa.it/398/725). -->
 - :custard: I did a research internship at Universidade de Coimbra, Portugal. I defined and designed the current tools that I use in my thesis.
