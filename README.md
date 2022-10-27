@@ -24,6 +24,10 @@
 
 # :brain: [Personal] Projects:
 
+- :stuck_out_tongue_winking_eye: Doing the 100 days of code.
 - :mechanical_arm: Learning Qiskit and getting familiar with quantum algorithms.
 - :chess_pawn: Studying ML in Mathematica by creating my own chess AI.
 - :paintbrush: I always like to draw a fat orange "cat": [Carrot](https://www.instagram.com/auyama_zanahoria/).
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaPerdomop&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
