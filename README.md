@@ -25,7 +25,7 @@
 
 # :brain: [Personal] Projects:
 
-- :stuck_out_tongue_winking_eye: Doing the 100 days of code. To check the progress, go [here](https://github.com/CarolinaPerdomo/100-days-of-code/blob/master/log.md).
+- :stuck_out_tongue_winking_eye: Doing personal code projects. To check the progress, go [here](https://github.com/CarolinaPerdomo/100-days-of-code/blob/master/log.md).
 - :mechanical_arm: Learning Qiskit and getting familiar with quantum algorithms. Current project in [here](https://github.com/CarolinaPerdomo/Project-VQA-for-DE-with-Qiskit).
 - :chess_pawn: Studying ML in Mathematica by creating my own chess AI.
 - :paintbrush: I always like to draw a fat orange "cat": [Carrot](https://www.instagram.com/auyama_zanahoria/).
