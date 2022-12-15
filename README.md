@@ -1,6 +1,6 @@
 <p align='center'>
 <a href="https://twitter.com/LinaRonrono"><img height="30" src="https://github.com/CarolinaPerdomo/CarolinaPerdomo/blob/main/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/c-arias-perdomo/?locale=fr_FR"><img height="30" src="https://github.com/CarolinaPerdomo/CarolinaPerdomo/blob/main/icons/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/carolina-arias-perdomo/"><img height="30" src="https://github.com/CarolinaPerdomo/CarolinaPerdomo/blob/main/icons/linkedin.png?raw=true"></a>
 </p>
 
 ### Hello outsider 👋:smile_cat: I'm Carolina.
