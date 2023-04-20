@@ -26,7 +26,7 @@
 
 # :brain: [Other] Projects:
 
-- :mechanical_arm: Learning Qiskit and getting familiar with quantum algorithms. Current project in [here](https://github.com/CarolinaPerdomo/Project-VQA-for-DE-with-Qiskit).
+- :mechanical_arm: Learning Qiskit and getting familiar with quantum algorithms. <!-- Current project in [here](https://github.com/CarolinaPerdomo/Project-VQA-for-DE-with-Qiskit). -->
 - :chess_pawn: Studying ML in Mathematica by creating my own chess AI.
 - :paintbrush: I always like to draw a fat orange "cat": [Carrot](https://www.instagram.com/auyama_zanahoria/).
 
