@@ -7,7 +7,7 @@
 
 # :nerd_face: About nerd me (research and code):
 
-- :woman_scientist: Currently working as pedagogical content writer and data science intern in the automobile sector. 
+- :woman_scientist: Currently working as a pedagogical content writer in science, and a data science intern in the automobile sector. 
 - :zany_face: I have a Ph.D. from Universidade Federal do ABC, Brazil. I am a researcher in theoretical particle physics.
 - :computer: I develop and test regularization algorithms with Mathematica for the study of theoretical models in particle physics. For more about that, you can check [this](https://github.com/CarolinaPerdomo/Thesis) repository.
 - :ear: As a researcher, one of my responsibilities is to transmit knowledge. The ability to communicate technical aspects in a clear way has been a crucial part of my work. Check part of my Ph.D. presentations in [here](https://github.com/CarolinaPerdomo/Presentations-during-Ph.D.).
