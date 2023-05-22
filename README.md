@@ -24,9 +24,9 @@
 - :musical_keyboard: I studied music and academic piano for many years. I have been a music teacher for children between 5-11 years old.
 - :tongue: I speak Spanish (native), English (bilingual with a tropical accent :palm_tree:), Portuguese (C1), and French (B2) fluently.
 
-# :brain: [Other] Projects:
+# :brain: Projects:
 
-- :mechanical_arm: Learning Qiskit and getting familiar with quantum algorithms. <!-- Current project in [here](https://github.com/CarolinaPerdomo/Project-VQA-for-DE-with-Qiskit). -->
+- :mechanical_arm: Learning Qiskit and implementing quantum algorithms. <!-- Current project in [here](https://github.com/CarolinaPerdomo/Project-VQA-for-DE-with-Qiskit). -->
 - :chess_pawn: Studying ML in Mathematica by creating my own chess AI.
 - :paintbrush: I always like to draw a fat orange "cat": [Carrot](https://www.instagram.com/auyama_zanahoria/).
 
