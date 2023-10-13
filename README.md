@@ -23,7 +23,7 @@
 - :zombie_woman: I love survival horror video games and horror movies.
 - :musical_keyboard: I studied music and academic piano for many years. I have been a music teacher for children between 5-11 years old.
 - :tongue: I speak Spanish (native), English (bilingual with a tropical accent :palm_tree:), Portuguese (C1), and French (B2) fluently.
-- - :paintbrush: I always like to draw a fat orange "cat": [Carrot](https://www.instagram.com/auyama_zanahoria/).
+- :paintbrush: I always like to draw a fat orange "cat": [Carrot](https://www.instagram.com/auyama_zanahoria/).
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaPerdomo&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
