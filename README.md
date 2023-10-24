@@ -7,7 +7,7 @@
 
 # :nerd_face: About nerd me (research and code):
 
-- :woman_scientist: Currently working as a data science intern in the automobile sector. Also as a Quantum Fellow supervising a quantum machine learning project.
+- :woman_scientist: Currently working as data scientist in the automobile sector. Also as a voluntary Quantum Fellow supervising a quantum machine learning project.
 - :zany_face: I have a Ph.D. from Universidade Federal do ABC, Brazil. I am a researcher in theoretical particle physics.
 - :computer: I develop and test regularization algorithms with Mathematica for the study of theoretical models in particle physics. For more about that, you can check [this](https://github.com/CarolinaPerdomo/Thesis) repository.
 - :ear: As a researcher, one of my responsibilities is to transmit knowledge. The ability to communicate technical aspects in a clear way has been a crucial part of my work. Check part of my Ph.D. presentations in [here](https://github.com/CarolinaPerdomo/Presentations-during-Ph.D.).
@@ -15,8 +15,9 @@
 - :custard: I did a research internship at Universidade de Coimbra, Portugal. I defined and designed the current tools that I used in my thesis. To obtain this funding we researched and developed a grant proposal.
 <!-- - :croissant: I did my master's degree in experimental physics at Université Paris Diderot, France. -->
 - :woman_technologist: I did an internship in experimental physics and data science with C++ and Python during my M2 (Université Paris Diderot). To check these projects go [here](https://github.com/CarolinaPerdomo/M2_Data_Projects).
-<!-- :atom: I have participated in several pop-science activities: as a volunteer at the Hospital de Niños Dr. J. M. de los Ríos (:venezuela: Venezuela) and as a science blog ghostwriter (UpWork).
-- :woman_teacher: I have held positions as teaching assistant (Universidad Simón Bolívar and UFABC). -->
+- :briefcase: I am deeply passionate about working with data and I am actively cultivating the practice of showcasing a diverse array of data projects here in order to enhance my professional portfolio. You can check the [projects](https://github.com/CarolinaPerdomo/DS-Projects) and the [micro-projects](https://github.com/CarolinaPerdomo/microDS-Projects). I am always open to feedback. For Quantum Computing projects, check [here](https://github.com/CarolinaPerdomo/studyingQC).
+- :atom: I have participated in several pop-science activities: as a volunteer at the Hospital de Niños Dr. J. M. de los Ríos (:venezuela: Venezuela), as a science blog writer (UpWork), worked as a science pedagogical content writer based in France, and currently, with my educational project in Quantum Computing call [<Quantum|Chamitas>](https://drcarolinaperdomo.com/empowering-young-venezuelan-girls-in-quantum-education/).
+<!-- - - :woman_teacher: I have held positions as teaching assistant (Universidad Simón Bolívar and UFABC). -->
 
 # :cowboy_hat_face: About mortal me (hobbies and others):
 
