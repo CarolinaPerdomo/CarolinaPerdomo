@@ -16,8 +16,8 @@
 <!-- - :croissant: I did my master's degree in experimental physics at Université Paris Diderot, France. -->
 - :woman_technologist: I did an internship in experimental physics and data science with C++ and Python during my M2 (Université Paris Diderot). To check these projects go [here](https://github.com/CarolinaPerdomo/M2_Data_Projects).
 - :briefcase: I am deeply passionate about working with data and I am actively cultivating the practice of showcasing a diverse array of data projects here in order to enhance my professional portfolio. You can check the [projects](https://github.com/CarolinaPerdomo/DS-Projects) and the [micro-projects](https://github.com/CarolinaPerdomo/microDS-Projects). I am always open to feedback. For Quantum Computing projects, check [here](https://github.com/CarolinaPerdomo/studyingQC).
-- :atom: I have participated in several pop-science activities: as a volunteer at the Hospital de Niños Dr. J. M. de los Ríos (:venezuela: Venezuela), as a science blog writer (UpWork), worked as a science pedagogical content writer based in France, and currently, with my educational project in Quantum Computing call [<Quantum|Chamitas>](https://drcarolinaperdomo.com/empowering-young-venezuelan-girls-in-quantum-education/).
-<!-- - - :woman_teacher: I have held positions as teaching assistant (Universidad Simón Bolívar and UFABC). -->
+- :atom: I have been involved in various pop-science initiatives, including volunteering at Hospital de Niños Dr. J. M. de los Ríos in Venezuela, writing for a science blog on UpWork, working as a science content writer in France, and now working on my Quantum Computing educational project called [<Quantum|Chamitas>](https://drcarolinaperdomo.com/empowering-young-venezuelan-girls-in-quantum-education/).
+- :woman_teacher: I have served as a teaching assistant at both Universidad Simón Bolívar and UFABC. Additionally, I have experience working as a high school physics teacher and private physics tutor.
 
 # :cowboy_hat_face: About mortal me (hobbies and others):
 
