@@ -3,12 +3,13 @@
 <a href="https://www.linkedin.com/in/carolina-arias-perdomo/"><img height="30" src="https://github.com/CarolinaPerdomo/CarolinaPerdomo/blob/main/icons/linkedin.png?raw=true"></a>
 </p>
 
-### Hello outsider 👋:smile_cat: I'm Carolina.
+### Hello outsider 👋 I'm Carolina.
 
-# :nerd_face: About nerd me (research and code):
+# :nerd_face: About nerd me (research and "code"):
 
-- :woman_scientist: Currently working as data scientist in the automobile sector. Also as a voluntary Quantum Fellow supervising a quantum machine learning project.
-- :zany_face: I have a Ph.D. from Universidade Federal do ABC, Brazil. I am a researcher in theoretical particle physics.
+- :woman_scientist: Currently: R&D engineer _chez_ Vedecom, working as part of the [BERTHA](https://berthaproject.eu/) project in the data architecture.
+- :pencil2: I also participated in different voluntary jobs related to education, among them: Graduate teaching staff in Physics at the Faculty of Sciences-Universidad Central de Venezuela, instructor of the Quantum Mechanics course; Quantum Fellow at QuantumQuipu, working and supervising a quantum machine learning project; And my personal project: [<Quantum|Chamitas>](https://quantumchamitas.com/), working on women’s empowerment in quantum science.
+- :zany_face: I have a Ph.D. in physics (2022) from Universidade Federal do ABC, Brazil. I am a researcher in theoretical particle physics.
 - :computer: I develop and test regularization algorithms with Mathematica for the study of theoretical models in particle physics. For more about that, you can check [this](https://github.com/CarolinaPerdomo/Thesis) repository.
 - :ear: As a researcher, one of my responsibilities is to transmit knowledge. The ability to communicate technical aspects in a clear way has been a crucial part of my work. Check part of my Ph.D. presentations in [here](https://github.com/CarolinaPerdomo/Presentations-during-Ph.D.). For my presentations post-Ph.D. as invited speaker, or participating in conferences, etc, check [here](https://github.com/CarolinaPerdomo/Presentations-after-PhD/blob/main/README.md).
 <!-- - :scroll: I have collaborated in: ["Two-loop renormalisation of gauge theories in 4D Implicit Regularisation: transition rules to dimensional methods"](https://link.springer.com/article/10.1140/epjc/s10052-021-09259-6), ["A Brief Review of Implicit Regularization and Its Connection with the BPHZ Theorem"](https://www.mdpi.com/2073-8994/13/6/956), and ["Two-loop renormalisation of non-Abelian gauge theories in 4D Implicit Regularisation"](https://pos.sissa.it/398/725). -->
